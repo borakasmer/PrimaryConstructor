@@ -1,0 +1,6 @@
+@PrimaryConstructor_HostAddress = http://localhost:5098
+
+GET {{PrimaryConstructor_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
